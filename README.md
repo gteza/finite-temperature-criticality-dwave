@@ -3,7 +3,7 @@
 This repository contains the processed data and analysis code supporting the manuscript:
 
 **Finite-temperature criticality in a large-scale two-dimensional Ising model on a quantum annealer**  
-G. Teza, F. Campaioli, M. Avesani, O. Raz
+G. Teza, F. Campaioli, M. Avesani, O. Raz, [arXiv:2507.07167](https://arxiv.org/abs/2507.07167) (2025)
 
 ## Contents
 
